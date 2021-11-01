@@ -20,3 +20,4 @@
 .env.production.local
 /.netlify
 *.log
+/src/editable-stuff/config_Original.js
