@@ -1,7 +1,6 @@
 {
   "name": "portifolio",
   "description": "A personal static website/portfolio template hosted on netlify, built to showcase my recent works.",
-  "homepage": ".",
   "version": "1.0.0",
   "private": true,
   "author": "Kalkidan Bekalu <kalubekalu1@gmail.com> (https://github.com/kalubekalu)",
